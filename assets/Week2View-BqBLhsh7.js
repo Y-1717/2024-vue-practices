@@ -1,0 +1,1 @@
+import{_ as e,c as s,o,a as t}from"./index-xmoWLxwD.js";const c={},a={class:"about"},n=t("h1",null,"This is an about week2 page",-1),_=[n];function r(i,d){return o(),s("div",a,_)}const f=e(c,[["render",r]]);export{f as default};
